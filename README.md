@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 # 💫 About Me:
  Hi! I'm Bryan Díaz, a Computer Systems Engineering student at the University of El Salvador.
 I'm building my path in the world of Full Stack Development, with a strong interest in projects that combine frontend, backend, and database technologies.
